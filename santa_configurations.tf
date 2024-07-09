@@ -1,5 +1,5 @@
 resource "zentral_santa_configuration" "default" {
-  name           = "SantaBase1"
+  name           = "Santa"
   client_mode    = "MONITOR"
   enable_bundles = true
 }
